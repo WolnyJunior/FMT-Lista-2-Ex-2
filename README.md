@@ -27,3 +27,5 @@ Deve ser criada utilizando HTML semântico.</p>
   <li>Deve ser utilizado HTML semântico.</li>
   <li>Todas as informações deverão ser fictícias.</li>
 </ul>
+
+<h3>Clique <a href="https://fmt-lista-2-ex-2.vercel.app/">aqui</a> e confira a atividade.</h3>
